@@ -5,5 +5,6 @@
 * сетка flex, grid;
 * адаптивная верстка;
 
+* https://Mobidikt.github.io/russian-travel
 
 Проект написан на языке HTML и CSS и должен верно отображаться в Safari, Firefox или Yandex Browser.
